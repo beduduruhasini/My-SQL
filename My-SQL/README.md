@@ -128,5 +128,5 @@ This project is licensed under the MIT License.
 BEDUDURU HASINI
 Python Developer | Database Enthusiast
 
-📧 Email: likitha0612@gmail.com
+📧 Email: beduduruhasini@gmail.com
 🔗 GitHub: https://github.com/beduduruhasini
